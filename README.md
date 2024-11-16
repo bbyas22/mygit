@@ -1,5 +1,7 @@
 # Hello
 
-Welcome to yantai.
+Welcome yantai.
 
-Oh, stupid boss.
+Oh, stupid boss
+
+hahahaha.
